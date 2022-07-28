@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almeriotsaa&label=Profile%20views&color=0e75b6&style=flat" alt="almeriotsaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almeriotsaa" alt="almeriotsaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlmerioTsany" alt="AlmerioTsany" /></a> </p>
 
 - 📫 How to reach me **almerio.tsany@gmail.com**
 
